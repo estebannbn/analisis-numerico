@@ -25,3 +25,9 @@ Nos queda la fórmula general:
 ![yn](euler-yn.png)
 
 ## Instrucciones del programa
+### Parquetes utilizados
+* **Numpy**: Utilizado para manejar arrays grandes utilizando poca memoria. Puede hacer un poco mas dificil de leer el programa, pero se utiliza por recursos.
+* **Pandas**: Para mostrar en formato de tablas los resultados.
+* **Matplotlib**: Para mostrar la funcion y los resultados en un grafico.
+
+Asegurense de crearse un entorno virtual con todos estos paquetes, o en todo caso tenerlos instalados globalmente.
