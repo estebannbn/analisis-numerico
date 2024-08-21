@@ -27,3 +27,5 @@ Los programas están escritos en **Jupyter**.
 * **Matplotlib**: Para mostrar la funcion y los resultados en un grafico.
 
 Asegurense de crearse un entorno virtual con todos estos paquetes, o en todo caso tenerlos instalados globalmente.
+
+Si se usa un entorno virtual, editar el archivo .gitignore que está en la carpeta principal para que aplique al entorno creado.
