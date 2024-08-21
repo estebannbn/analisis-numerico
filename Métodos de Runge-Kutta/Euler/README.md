@@ -4,10 +4,13 @@
 
 ### Valores iniciales necesarios
 * Funcion y' = f(x,y): Es la ecuacion diferencial en cuestion. Cada valor que nos devuelva en puntos especificos Xn e Yn, es la pendiente de una recta en esos puntos.
+
+
 ![derivada](imagenes/euler-dydx.png)
 
-    Puede Tener otras notaciones:
-    ![notaciones](imagenes/euler-fxy.png)
+Puede Tener otras notaciones:
+
+![notaciones](imagenes/euler-fxy.png)
 
 * Valores iniciales x0, y0.
 
